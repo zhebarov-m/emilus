@@ -2,9 +2,30 @@
     "home": "Главная",
 
     "sidenav.main": "Основные",
-    "sidenav.main.dashboard": "Товары",
-    "sidenav.main.analytic": "Analytic",
-    "sidenav.main.sales": "Sales",
+    "sidenav.main.dashboard": "Дэшбоард",
+    "sidenav.main.catalog": "Каталог",
+    "sidenav.main.catalog.products": "Товары",
+    "sidenav.main.catalog.categories": "Категории",
+    "sidenav.main.catalog.collections": "Коллекции",
+    "sidenav.main.catalog.combo": "Комбо",
+    "sidenav.main.orders": "Заказы",
+    "sidenav.main.clients": "Клиенты",
+    "sidenav.main.clients.clients-list": "Список клиентов",
+    "sidenav.main.clients.clients-groups": "Группы клиентов",
+    "sidenav.main.banners": "Баннеры",
+    "sidenav.main.promo-codes": "Промокоды",
+    "sidenav.main.offline-places": "Оффлайн точки",
+    "sidenav.main.offline-places.addresses": "Адреса",
+    "sidenav.main.offline-places.geofence": "Геозоны",
+    "sidenav.main.staff": "Сотрудники",
+    "sidenav.main.mailing-list": "Рассылки",
+
+
+    "sidenav.systems": "Системные",
+    "sidenav.systems.settings": "Настройки",
+    "sidenav.systems.mobile-app": "Мобильное приложение",
+    "sidenav.systems.logs": "Логи",
+
 
     "sidenav.apps": "Приложения",
     "sidenav.apps.mail": "Почта",
@@ -15,10 +36,8 @@
     "sidenav.apps.project.scrumboard": "Доска Scrum",
     "sidenav.apps.ecommerce": "Электронная коммерция",
     "sidenav.apps.ecommerce.product": "Продукт",
-    "sidenav.apps.ecommerce.editProduct": "Изменить продукт",
-    "sidenav.apps.ecommerce.addProduct": "Добавить продукт",
     "sidenav.apps.ecommerce.productList": "Список продуктов",
-    "sidenav.apps.ecommerce.orders": "Заказы",
+
 
     "sidenav.components": "Компоненты",
     "sidenav.components.general": "Общее",
